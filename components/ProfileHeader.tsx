@@ -20,7 +20,7 @@ export const ProfileHeader: React.FC = () => {
       {/* Contact Icons */}
       <div className="mt-4 flex gap-4">
         <a 
-          href="tel:+919876543210" 
+          href="tel:+919356591422" 
           className="flex items-center justify-center w-12 h-12 bg-blue-100 rounded-full text-blue-600 hover:bg-blue-200 transition-colors duration-200 shadow-sm"
           aria-label="Phone"
         >
